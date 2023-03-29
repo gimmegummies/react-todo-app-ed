@@ -1,0 +1,10 @@
+@import "./vars.scss";
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-image: $gradient-color;
+  text-align: center;
+}
